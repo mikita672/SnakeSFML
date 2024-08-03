@@ -47,7 +47,7 @@ void updateSnakeDirection(direction *dir) {
 }
 
 void snakeMovement(sf::Clock *clock, direction *snakeDirection, int *snake_posX, int *snake_posY){
-    if (clock->getElapsedTime().asSeconds() >= 0.7f) {
+    if (clock->getElapsedTime().asSeconds() >= 0.3f) {
         if (*snakeDirection == UP) {
             *snake_posY -= 1;
         } else if (*snakeDirection == DOWN) {
