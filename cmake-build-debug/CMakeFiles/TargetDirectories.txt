@@ -1,0 +1,3 @@
+/mnt/c/Users/dzevi/Documents/dev/SnakeSFML/cmake-build-debug/CMakeFiles/SnakeSFML.dir
+/mnt/c/Users/dzevi/Documents/dev/SnakeSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dzevi/Documents/dev/SnakeSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
