@@ -73,6 +73,7 @@ void snakeMovement(sf::Clock *clock, direction *snakeDirection, int *snake_posX,
     }
 }
 
+
 void snakeRender(sf::Sprite *snakeHeadSprite, sf::Sprite *snakeBodySprite, sf::Sprite *snakeTailSprite, int snake_posX, int snake_posY, direction snakeDirection, sf::RenderWindow *window){
     if(snakeDirection == STOPED || snakeDirection == UP) {
         snakeBodySprite->setRotation(0);
